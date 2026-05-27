@@ -5,7 +5,7 @@
 **Tema:** "Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente"
 **Subcategoria:** 3 — Programação Front-End
 
-[Acesse o projeto online](https://dgolaus.github.io/agrocarbono/)
+[Acesse o projeto online](https://dgolaus.github.io/AgroCarbono/)
 
 ---
 
