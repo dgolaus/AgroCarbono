@@ -9,6 +9,19 @@
 
 ---
 
+## 🏆 4º Lugar Estadual — Concurso Agrinho 2026
+
+Este projeto conquistou o **4º lugar em nível estadual** no **Concurso Agrinho 2026**, Subcategoria 3 (Programação Front-End: HTML, CSS e JavaScript), promovido pelo **SENAR-PR** em parceria com a **SEED-PR** entre estudantes do Ensino Médio da rede pública estadual do Paraná.
+
+| Item | Detalhe |
+|---|---|
+| **Colocação** | 4º lugar entre os 43 finalistas estaduais |
+| **Tema** | "Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente" |
+| **Divulgação oficial** | Setembro de 2026, via edital do [Sistema FAEP](https://www.sistemafaep.org.br/agrinho/) e da [Programação Paraná](https://www.educacao.pr.gov.br/programacao) |
+| **Premiação** | Cerimônia estadual em Curitiba (novembro de 2026) |
+
+---
+
 ## Sobre
 
 O **AgroCarbono** é uma ferramenta web que permite ao produtor rural estimar, em poucos minutos, a pegada de carbono (em kg de CO₂ equivalente) da sua safra. A partir de dados simples — área cultivada, consumo de combustível, uso de fertilizantes e logística de transporte — o sistema calcula as emissões, classifica o impacto e gera recomendações personalizadas para reduzir o passivo ambiental sem sacrificar produtividade.
@@ -108,8 +121,4 @@ A IA atuou como **consultora técnica e par programador** ao longo do desenvolvi
 
 ## Autoria
 
-**Douglas Aldrovandi da Silva**
-Colégio Estadual Cívico-Militar Castro Alves
-Rondon — Paraná, Brasil
-
-Projeto desenvolvido para o **Concurso Agrinho 2026** · Subcategoria 3 — Programação Front-End.
+Projeto desenvolvido para o **Concurso Agrinho 2026** — Subcategoria 3 (Programação Front-End) · **4º lugar estadual** · Rede Pública de Ensino do Paraná.
